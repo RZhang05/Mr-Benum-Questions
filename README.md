@@ -7,10 +7,16 @@ Your program should interact with the user in the following way. The user should
 
 The rules for detecting American spelling are quite naive: If the word has more than four letters and has a suffix consisting of a consonant followed by `or`, you may assume it is an American spelling, and that the equivalent Canadian spelling replaces the `or` by `our`. Note : you should treat the letter `y` as a vowel.
 
-##Sample Input
+## Sample Input
 ```
 color
 for
 taylor
 quit!
+```
+## Sample Output
+```
+colour
+for
+taylour
 ```
