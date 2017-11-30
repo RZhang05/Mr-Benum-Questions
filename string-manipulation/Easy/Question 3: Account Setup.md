@@ -7,13 +7,18 @@ This application should prompt the user for a username and password. The usernam
 ```
 Please enter a username:
 > hello
+
 Please enter a password:
 > world
+
 Not long enough! The password must be 8 characters long.
+
 Please enter a username:
 > hello
+
 Please enter a password:
 > world1234
+
 Confirmation:
 Username: hello
 password: world1234
