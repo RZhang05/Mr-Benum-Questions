@@ -11,7 +11,7 @@ Write a program that will find the **biggest** file in a **specified** directory
 The largest file on your harddrive is: example.exe with 2832910421 bytes.
 ```
 
-##Sample Run - Option 2
+## Sample Run - Option 2
 ### User Console
 ```
 Prompt: Enter a directory to search through:
