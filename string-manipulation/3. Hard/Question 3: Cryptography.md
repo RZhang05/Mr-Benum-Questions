@@ -22,6 +22,7 @@ if encrypt {
 
     Use the parseBase64Binary method of DatatypeConverter to decode the inputted string from the user, 
     the result will have to be changed to a string
+    Output the value to the console
     
 }
 ```
