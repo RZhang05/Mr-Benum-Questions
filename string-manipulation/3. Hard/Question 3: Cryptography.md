@@ -14,12 +14,14 @@ Ask whether the user would like to encrypt or decrypt
 
 if encrypt {
 
-    Use the printBase64Binary method of DatatypeConverter to encode the inputted string from the user (note: the string should be changed to a byte array first)
+    Use the printBase64Binary method of DatatypeConverter to encode the inputted string 
+    from the user (note: the string should be changed to a byte array first)
     Output the value to the console
     
 } else if decrypt {
 
-    Use the parseBase64Binary method of DatatypeConverter to decode the inputted string from the user, the result will have to be changed to a string
+    Use the parseBase64Binary method of DatatypeConverter to decode the inputted string from the user, 
+    the result will have to be changed to a string
     
 }
 ```
