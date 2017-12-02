@@ -36,5 +36,4 @@ public class test {
 (user) java
 (comp) encoded value is 	amF2YQ==
 (comp) decoded value is 	java
-
 ```
