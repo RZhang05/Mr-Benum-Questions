@@ -5,7 +5,7 @@ Research a simple `encryption or decryption` algorithm (For example, a Base64 Ja
 The below example is an implemenation in java of a Base 64 Encoder. Note that the program does not meet all of the above expectations and is merely a sample.
 
 ### Base 64 Encoder
-```css
+```java
 //imports
 import java.io.UnsupportedEncodingException;    
 import javax.xml.bind.DatatypeConverter;
@@ -22,11 +22,11 @@ public class Cryptography {
         String str = sc.next();
         
         // encode data using BASE64
-        String encoded = <Using DatatypeConverter's printBase64Binary method, encode "str" as an array of bytes>
+        //String encoded = <Using DatatypeConverter's printBase64Binary method, encode "str" as an array of bytes>
         System.out.println("encoded value is \t" + encoded);
 
         // Decode data 
-        String decoded = new String(<DatatypeConverter's parseBase64Binary method with the encoded value as the passed argument>)
+        //String decoded = new String(<DatatypeConverter's parseBase64Binary method with the encoded value as the passed argument>)
         System.out.println("decoded value is \t" + decoded);
 
     }
