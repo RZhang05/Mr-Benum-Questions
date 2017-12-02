@@ -1,42 +1,45 @@
 # Cryptography
 Research a simple `encryption or decryption` algorithm (For example, a Base64 Java encoder/decoder) , or make one up your own. Create a program that will prompt the user for a **string** and then **ask** the user if they want to encrypt or decrypt. Output the resulting string.
 
-## Sample
-The below example is the pseudocode explanation of a Base 64 Encoder in java. Note that the program does not meet all of the above expectations and is merely a sample.
+## :bulb: Idea
+Below is an explanation for the implementation of a Base64 Encoder in Java. Note that it is written in Pseudocode and you will still have to figure it out yourself. It's just a possibility!
 
 ### Base 64 Encoder
+Important note: You will have to declare a main method that throws the `UnsupportedEncodingException`. The steps for the encoder follow below:
 ```java
-//imports
-import java.io.UnsupportedEncodingException;    
-import javax.xml.bind.DatatypeConverter;
-import java.util.Scanner;
+imports required: javax.xml.bind.DatatypeConverter, java.io.UnsupportedEncodingException
 
-public class Cryptography {
+Take in a string (no spaces) from the user
+Ask whether the user would like to encrypt or decrypt
 
-    public static void main(String[] args) throws UnsupportedEncodingException {
-    	
-    	<Scanner object here>
-    		
-    	//Read a word from the user
-    	System.out.println("Enter a word:");
-        String str = sc.next();
-        
-        // encode data using BASE64
-        //String encoded = < Using DatatypeConverter's printBase64Binary method, encode "str" as an array of bytes >
-        System.out.println("encoded value is \t" + encoded);
+if encrypt {
 
-        // Decode data 
-        //String decoded = new String(< Using DatatypeConverter's parseBase64Binary method with the encoded value as the passed argument >)
-        System.out.println("decoded value is \t" + decoded);
+    Use the printBase64Binary method of DatatypeConverter to encode the inputted string from the user (note: the string should be changed to a byte array first)
+    Output the value to the console
+    
+} else if decrypt {
 
-    }
-
+    Use the parseBase64Binary method of DatatypeConverter to decode the inputted string from the user, the result will have to be changed to a string
+    
 }
 ```
 ### Console
+Provided you have completed the above steps correctly you should see one of the two possible outcomes below:
+
+ENCRYPTION
 ```
 (comp) Enter a word:
 (user) java
-(comp) encoded value is 	amF2YQ==
+(comp) Would you like to Decrypt or Encrypt?
+(user) Encrypt
+(comp) Encryped value is    amF2YQ==
+```
+
+DECRYPTION
+```
+(comp) Enter a word:
+(user) amF2YQ==
+(comp) Would you like to Decrypt or Encrypt?
+(user) Decrypt
 (comp) decoded value is 	java
 ```
