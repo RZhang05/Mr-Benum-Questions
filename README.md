@@ -4,4 +4,6 @@ Hello! I'm Jonathan Sumabat, and I'm just adding a bunch of questions from Mr. B
 
 If you find a problem, please leave an issue [here](https://github.com/MisterCookiez/Mr-Benum-Questions/issues).
 
+Contributor: Raymond Zhang
+
 *Hm maybe I'll make a question website database for this idk yet*
