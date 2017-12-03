@@ -10,10 +10,6 @@ This is essentially the same as the question before.
 4. [JOptionPane](https://docs.oracle.com/javase/tutorial/uiswing/components/dialog.html)
 
 ## Sample Run
-### User Console
-```
-~null~
-```
 ### Pop up Dialog Box
 *Will not resemble the below* :+1:
 ```
