@@ -7,3 +7,7 @@ If you find a problem, please leave an issue [here](https://github.com/MisterCoo
 Contributor: Raymond Zhang
 
 *Hm maybe I'll make a question website database for this idk yet*
+
+Updates:
+MisterCookiez: String Manipulation Questions (Easy & Medium)
+SlowestLoris: String Manipulation Questions (Hard)
