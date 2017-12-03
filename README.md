@@ -12,6 +12,6 @@ Contributor: Raymond Zhang
 
 Updates:
 
-* MisterCookiez: String Manipulation Questions (Easy & Medium)
+* MisterCookiez: String Manipulation Questions (Easy & Medium) `HINTS IN PROGRESS`
 
-* SlowestLoris: String Manipulation Questions (Hard)
+* SlowestLoris: String Manipulation Questions (Hard) `STILL IN PROGRESS` `WITH HINTS`
