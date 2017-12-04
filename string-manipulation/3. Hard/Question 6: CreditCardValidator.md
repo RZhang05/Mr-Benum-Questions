@@ -1,5 +1,5 @@
 # Credit Card Validator
-Use the [LUHN algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm) to verify credit card numbers.
+Use the [LUHN algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm) to **verify credit card numbers**.
 
 ## Algorithm Explanation
 
