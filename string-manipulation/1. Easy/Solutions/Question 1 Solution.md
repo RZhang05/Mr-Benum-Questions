@@ -11,5 +11,5 @@ After, we can output the two string variables, with a comma after the `lastword`
 input(firstword)
 input(secondword)
 
-output(firstword + "," + secondword)
+output(secondWord + ", " + firstWord)
 ```
