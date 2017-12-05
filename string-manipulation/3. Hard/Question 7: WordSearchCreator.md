@@ -39,7 +39,7 @@ f | b | j | i | w | h | i | t | e | k | c | m | z |
 x | z | h | n | b | l | a | c | k | j | e | j | p |  
 - - - - - - - - - - - - - - - - - - - - - - - - - -  
  
-l | g | r | k | z | t | u | r | q | u | o | i | s | e |  
+l | g | r | k | t | u | r | q | u | o | i | s | e |
 - - - - - - - - - - - - - - - - - - - - - - - - - -  
  
 p | a | d | c | y | a | n | a | p | o | v | q | h |  
