@@ -7,7 +7,6 @@ Taking the program you wrote for the previous question, you can adapt the genera
 ## Sample Run
 ### Input from file: words.txt (the words you're looking for)
 ```
-== Words.txt==
 green
 red
 magenta
