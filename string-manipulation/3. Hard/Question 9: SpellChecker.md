@@ -59,5 +59,27 @@ Currently checking: appliance
 Direct match: appliance
 ```
 
+### Additional Feature
+Maybe you want to implement a simple typo check? (Doesn't work too well due to search constrictions)
+```
+Enter a word:
+soop
+Currently checking: laurence
+Currently checking: revolutionizes
+Currently checking: taken
+Currently checking: slinkiest
+Currently checking: stereoscopy
+Currently checking: spasms
+Currently checking: soberest
+Currently checking: songfest
+Currently checking: sourdough
+Currently checking: sordidly
+Currently checking: sophie
+Currently checking: sony
+Currently checking: soothing
+Currently checking: soot
+Closest Match: soot
+```
+
 
 
