@@ -5,6 +5,8 @@ Write a program that will solve a **word search** that is provided as a **text f
 Taking the program you wrote for the previous question, you can adapt the general idea, to **Search for** instead of **produce** the crossword's terms.
 
 ## Sample Run
+Note that this example only reads each line with a :100: percent chance that the word will be in the given line in the given order. **Its very unadaptable**.
+
 ### Input from file: words.txt (the words you're looking for)
 ```
 green
