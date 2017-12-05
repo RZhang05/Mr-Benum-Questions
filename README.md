@@ -8,6 +8,8 @@ If you find a problem, please leave an issue [here](https://github.com/MisterCoo
 
 Contributor: Raymond Zhang
 
+If you would like to contribute, feel free to make a pull request - we'd be glad!
+
 *Hm maybe I'll make a question website database for this idk yet*
 
 ---
