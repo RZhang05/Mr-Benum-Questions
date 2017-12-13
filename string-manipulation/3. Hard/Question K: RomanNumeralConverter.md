@@ -24,11 +24,11 @@ Convert **roman numerals** to **decimal numbers** (Integer Values).
 ### User Console
 ```
 (Prompt) Enter a string of Roman Numerals:
-(User) MMDXLIX
+(User) MCMXCIX
 ```
 
 ### Console Output
 ```
-The value of MMDXLIX is 1999.
+The value of MCMXCIX is 1999.
 ```
 
