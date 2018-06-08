@@ -2,12 +2,12 @@
 Get a word as input and check it against a **text file dictionary** `(downloaded from the Internet)`. Consider doing a **binary search** for greater efficiency.
 
 ## Suggested Source
-This source excludes quite a lot of words, however it does cover a large amount of English language with over `80,000` words included.
+This source excludes a lot of words, however it does cover a large portion of English language with over `80,000` words included.
 
 [View source here](http://www.gwicks.net/dictionaries.htm)
 
 The one used for this program was the first one at `84,000` words for time efficiency.
-You can use any other sizes, however your search will take longer even with **binary search**.
+You can use any other sizes, however your search will obviously take longer.
 
 ## General Idea :bulb:
 Reading through a text file of words is quite simple, as per the previous questions. However, the concept of a **binary search** may be harder to understand.
