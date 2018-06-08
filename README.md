@@ -10,12 +10,10 @@ Contributor: Raymond Zhang
 
 If you would like to contribute, feel free to make a pull request - we'd be glad!
 
-*Hm maybe I'll make a question website database for this idk yet*
-
 ---
 
 Updates:
 
 * MisterCookiez: String Manipulation Questions (Easy & Medium) `HINTS IN PROGRESS`
 
-* SlowestLoris: String Manipulation Questions (Hard) `STILL IN PROGRESS` `WITH HINTS`
+* SlowestLoris: String Manipulation Questions (Hard) `FINISHED BUT NO PROVIDED SOLUTIONS`
