@@ -1,6 +1,6 @@
 # Camel Caser
 
-Write a program that takes a sentence as input and outputs the sentence in camelCase with the space remove and the first letter of every word is uppercased.
+Write a program that takes a sentence as input and outputs the sentence in camelCase with the spaces removed and the first letter of every word in uppercase.
 
 ## Sample Input 1
 ```
