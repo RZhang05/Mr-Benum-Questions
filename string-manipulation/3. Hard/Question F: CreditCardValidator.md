@@ -39,5 +39,5 @@ Step Three modulo by 10:      *80* % *10* = 0
 
 Result:                       The Pan Number is Valid
 
-Computer Output: *371449635398431* is a valid number.
+Computer Output: 371449635398431 is a valid number.
 ```
